@@ -1,3 +1,5 @@
+Please note that this server, localhost:8088, that contains the database for the kpop groups and members that needs to run along with the Kpop-React-Project repository to work properly. Kpop-React-Project can be found within my repositories. Thank you.
+
 # Grunt and Json-Server Boilerplate
 
 ### Steps
